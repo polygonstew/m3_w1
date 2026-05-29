@@ -1,0 +1,14 @@
+C:\2026\m3_w1\src\PokeConsole\bin\Debug\net10.0\PokeConsole.exe
+C:\2026\m3_w1\src\PokeConsole\bin\Debug\net10.0\PokeConsole.deps.json
+C:\2026\m3_w1\src\PokeConsole\bin\Debug\net10.0\PokeConsole.runtimeconfig.json
+C:\2026\m3_w1\src\PokeConsole\bin\Debug\net10.0\PokeConsole.dll
+C:\2026\m3_w1\src\PokeConsole\bin\Debug\net10.0\PokeConsole.pdb
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.AssemblyInfoInputs.cache
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.AssemblyInfo.cs
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.csproj.CoreCompileInputs.cache
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.dll
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\refint\PokeConsole.dll
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.pdb
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\PokeConsole.genruntimeconfig.cache
+C:\2026\m3_w1\src\PokeConsole\obj\Debug\net10.0\ref\PokeConsole.dll
